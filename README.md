@@ -21,7 +21,7 @@ Key Insights
 How to Use This Repository
 Clone the repository:
 
-git clone https://github.com/your-username/oral-cancer-analysis.git
+git clone https://github.com/99rayn/oral-cancer-analysis.git
 
 Open and explore the Excel dataset for an overview of patient records.
 Run the SQL scripts on your database to generate insights.
